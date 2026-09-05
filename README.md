@@ -162,7 +162,7 @@ Full methodology write-up: [`docs/MODEL.md`](docs/MODEL.md).
 
 ## Contributing
 
-This started as a single-author hackathon submission. If you'd like to
+This started as a hackathon submission. If you'd like to
 extend it, feel free to open an issue or pull request — please keep any new
 model/feature experiments in a new notebook (or a shared module, per
 "Future Improvements" above) rather than editing the tracked baseline, so the
@@ -177,4 +177,4 @@ portfolio/hackathon projects.
 
 ## Author
 
-Add your name / contact / portfolio link here.
+Sreyan Sarkar.
