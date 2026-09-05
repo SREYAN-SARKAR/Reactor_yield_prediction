@@ -1,0 +1,40 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+
+# --- Environment / secrets (none currently used, kept for safety) ---
+.env
+.env.local
+
+# --- Generated / large artifacts ---
+*.log
+.pytest_cache/
+.mypy_cache/
+
+# Keep the tracked baseline submission, but ignore any other
+# submission files generated locally by re-running the notebooks.
+outputs/*.csv
+!outputs/submission_baseline_RMSE_18_7105.csv
