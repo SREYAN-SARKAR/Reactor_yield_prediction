@@ -25,10 +25,6 @@ Thumbs.db
 .idea/
 *.swp
 
-# --- Environment / secrets (none currently used, kept for safety) ---
-.env
-.env.local
-
 # --- Generated / large artifacts ---
 *.log
 .pytest_cache/
